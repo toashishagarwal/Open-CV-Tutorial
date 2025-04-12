@@ -5,7 +5,7 @@ The app uses a Support Vector Machine (SVC) classifier & transforms document tex
 
 Techology Stack
 * Python
-* Terreseract
+* Tesseract 
 * OpenCV
 
 <b>Setup Instructions </b>
