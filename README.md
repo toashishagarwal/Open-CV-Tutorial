@@ -1,4 +1,4 @@
-About <br>
+<b>About</b> <br>
 This project showcases the classification of input documents (/input_docs) into separate folders (tax-related, invoice, agreements, unclassified) based on the contents of the input document. The documents that a fed into the app are image formats of the text.
 
 The app uses a Support Vector Machine (SVC) classifier & transforms document text using TF-IDF vectorization to predict the document category
@@ -25,7 +25,7 @@ pip install -r requirements.txt
 Download the installer from Tesseract GitHub releases (https://github.com/UB-Mannheim/tesseract/wiki)
 Run the installer and remember the installation path (default is usually C:\Program Files\Tesseract-OCR)
 
-Run Instructions
+<b>Run Instructions</b> <br>
 1. Place the image documents in the input_docs folder
 2. Run the application
     python document_classifier.main
