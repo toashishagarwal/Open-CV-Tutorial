@@ -27,6 +27,6 @@ Run the installer and remember the installation path (default is usually C:\Prog
 
 <b>Run Instructions</b> <br>
 1. Place the image documents in the input_docs folder
-2. Run the application
+2. Run the application <br>
     python document_classifier.main
 3. check the output_docs folder to see your classified documents
