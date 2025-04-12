@@ -9,20 +9,20 @@ The app uses a Support Vector Machine (SVC) classifier & transforms document tex
 * OpenCV
 
 <b>Setup Instructions </b>
-1. Create a python virtual env called venv
+1. Create a python virtual env called venv <br>
 python -m venv venv
 
-2. Activate the virtual env (for windows)
+2. Activate the virtual env (for windows) <br>
 .\venv\Scripts\Activate.ps1 
 
-    (If you get permission error, you may have to run the below command)
+    (If you get permission error, you may have to run the below command) <br>
     Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
-3. Install the dependencies
+3. Install the dependencies <br>
 pip install -r requirements.txt
 
 4. Install Tesseract OCR for Windows
-Download the installer from Tesseract GitHub releases (https://github.com/UB-Mannheim/tesseract/wiki)
+Download the installer from Tesseract GitHub releases (https://github.com/UB-Mannheim/tesseract/wiki) <br>
 Run the installer and remember the installation path (default is usually C:\Program Files\Tesseract-OCR)
 
 <b>Run Instructions</b> <br>
