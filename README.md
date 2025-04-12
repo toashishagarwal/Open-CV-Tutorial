@@ -3,7 +3,7 @@ This project showcases the classification of input documents (/input_docs) into 
 
 The app uses a Support Vector Machine (SVC) classifier & transforms document text using TF-IDF vectorization to predict the document category
 
-Techology Stack
+<b>Technology Stack</b>
 * Python
 * Tesseract 
 * OpenCV
