@@ -1,4 +1,4 @@
-About
+About <br>
 This project showcases the classification of input documents (/input_docs) into separate folders (tax-related, invoice, agreements, unclassified) based on the contents of the input document. The documents that a fed into the app are image formats of the text.
 
 The app uses a Support Vector Machine (SVC) classifier & transforms document text using TF-IDF vectorization to predict the document category
@@ -8,7 +8,7 @@ Techology Stack
 * Terreseract
 * OpenCV
 
-Setup Instructions
+<b>Setup Instructions </b>
 1. Create a python virtual env called venv
 python -m venv venv
 
